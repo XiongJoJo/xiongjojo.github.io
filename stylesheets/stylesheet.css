@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background: #151515 url('http://img01.taobaocdn.com/imgextra/i1/697181291/TB2pt6nbFXXXXbwXXXXXXXXXXXX_!!697181291.jpg') 0 0;
-  color: #eaeaea;
+  color: #b5e853;
   font: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
@@ -38,7 +38,7 @@ li {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed #FF4500;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
