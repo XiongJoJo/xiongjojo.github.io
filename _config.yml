@@ -1,0 +1,8 @@
+title: 孤的代码,像诗歌一样优美!
+description: 老熊的博客
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
